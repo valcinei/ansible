@@ -1,0 +1,15 @@
+---
+namespace: "valcinei"
+name: "vai"
+version: "1.0.12"
+readme: "README.md"
+authors:
+    - "Valcinei Silva"
+# dependencies:
+#     "other_namespace.collection1": ">=1.0.0"
+license:
+    - "MIT"
+tags:
+    - docker
+    - collection
+repository: "https://github.com/valcinei/ansible"
